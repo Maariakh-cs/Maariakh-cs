@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maaria</h1>
-<h3 align="center">A final year CS student passionate about Front-End Development & Python</h3>
+<h3 align="center">A final year CS student passionate about Python and Web Development. </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Aspiring+Frontend+Developer;Python+Learner;Tech-Enthusiast;Building+real-world+projects+daily!" alt="Typing SVG" />
