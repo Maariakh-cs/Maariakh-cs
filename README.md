@@ -38,14 +38,10 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maariak-cs&theme=radical&show_icons=true&hide_border=false&count_private=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=maariak-cs&theme=radical&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maariak-cs&layout=compact&theme=radical&hide_border=false" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=maariak-cs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=maariak-cs&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maariak-cs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -54,6 +50,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=maariak-cs&label=Profile%20Views&color=0&icon=0&pretty=true" />
-</p>
+
