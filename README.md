@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
   <a href="https://www.leetcode.com/maariak-cs" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="[https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white](https://leetcode.com/u/maariakh-cs/)" />
   </a>
 </p>
 
