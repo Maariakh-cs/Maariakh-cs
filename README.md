@@ -31,8 +31,8 @@
   <a href="https://www.hackerrank.com/maariakhan_18" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
-  <a href="https://www.leetcode.com/maariak-cs" target="_blank">
-    <img src="[https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white](https://leetcode.com/u/maariakh-cs/)" />
+  <a href="https://www.leetcode.com/maariakh-cs" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
